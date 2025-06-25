@@ -23,4 +23,10 @@ from local to github
       git remote set-url origin https://github.com/vidhyagithelp/localToGithub.git 
   2. To get updated code from repo
       git pull origin main
+
+  3.To check branches list in repo
+    git branch -a
+
+  4. If new branch is created using main and to update to local.
+     git pull
    
