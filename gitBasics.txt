@@ -35,4 +35,6 @@ from local to github
                         git checkout newbranch name
                         git pull origin main -------code from main is copied to newbranch
    
-   6. git merge newbranch to be merged after check and swithed to main
+   6. switch to main --> git merge newbranch to be merged  after review.
+   7. git push origin main --> to get reflected in main.
+    
