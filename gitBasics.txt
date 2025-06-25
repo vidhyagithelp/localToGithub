@@ -29,5 +29,9 @@ from local to github
 
   4. If new branch is created using main and to update to local.
          to change branch 
-                git checkout newbranch name   -----branch will be switched
+                git checkout newbranch name   -----branch will be switched  
+
+                5. can pull from main into new branch as 
+                        git checkout newbranch name
+                        git pull origin main -------code from main is copied to newbranch
    
