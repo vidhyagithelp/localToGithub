@@ -21,4 +21,6 @@ from local to github
    Notes:
   1. change remote origin path into new one
       git remote set-url origin https://github.com/vidhyagithelp/localToGithub.git 
+  2. To get updated code from repo
+      git pull origin main
    
