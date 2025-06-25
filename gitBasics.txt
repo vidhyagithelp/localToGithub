@@ -1,0 +1,24 @@
+From github to local system
+  1.clone 
+     Any files newly added or deleted, updated will be untracked stage ----->u
+  2.git add . ---moves file to staging
+  3.git commit -m "comments" -----commits in local git repo
+  4.git push origin main -----pushes the changes to github repo (finally).
+
+from local to github 
+   1.git init
+   2.git add .
+   3.git commit -m "comments"
+       (create a repository) to set origin
+   4.set origin by git remote add origin https://github.com/vidhyagithelp/learngit.git
+   5. change branch name from master to main
+        git branch -M main
+
+   6. git push origin main
+
+
+
+   Notes:
+  1. change remote origin path 
+      git remote set-url origin https://github.com/vidhyagithelp/localToGithub.git
+   
