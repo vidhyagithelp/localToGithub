@@ -37,4 +37,9 @@ from local to github
    
    6. switch to main --> git merge newbranch to be merged  after review.
    7. git push origin main --> to get reflected in main.
+   8. To create new branch 
+                 git branch newBranchName
+   9. NO DIRECT MERGE IS POSSIBLE  ---raise a new pull request in github
+           
+           
     
