@@ -1,0 +1,18 @@
+*   [33m7b2cf83[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m Merge branch 'feature/test-branch'
+[31m|[m[32m\[m  
+[31m|[m * [33mb441476[m[33m ([m[1;31morigin/feature/test-branch[m[33m, [m[1;32mfeature/test-branch[m[33m)[m feature test file
+[31m|[m * [33md336867[m[33m ([m[1;32mbranch1[m[33m)[m Added console log for Git test
+[31m|[m * [33md8f1794[m[33m ([m[1;31morigin/branch1[m[33m)[m testing
+* [32m|[m [33mc597fb9[m Added message in main branch
+[32m|[m[32m/[m  
+* [33m46edb05[m[33m ([m[1;31morigin/main[m[33m)[m 9th point added
+* [33m3361608[m 7th point added
+* [33m815a37b[m 6th point added
+* [33m96a0831[m 5point added
+* [33m53ba00d[m 4th point switching branch
+* [33m07e801d[m 3rd point updated
+* [33m5038c02[m 3rd point updated
+* [33m38f8e0a[m Updat gitBasics.txt
+* [33m8e28897[m Update gitBasics.txt
+* [33m2b4886e[m gitBasicNotes file created
+* [33mb6d7d92[m added files
