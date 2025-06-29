@@ -1,1 +1,2 @@
-console.log("Start from main branch");
+console.log("This change is from feature/conflict-demo branch");
+
