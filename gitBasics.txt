@@ -43,6 +43,10 @@ from local to github
 
 
    test---only in branch1
+
+
+   console.log("Testing Git from VS Code");
+
            
            
     
