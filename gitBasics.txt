@@ -40,6 +40,15 @@ from local to github
    8. To create new branch 
                  git branch newBranchName
    9. NO DIRECT MERGE IS POSSIBLE  ---raise a new pull request in github
+
+
+   test---only in branch1
+
+
+   console.log("Testing Git from VS Code");
+
+   console.log("===============Message from feature branch=====================");
+
            
          
          
